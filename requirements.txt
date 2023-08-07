@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Python
+python==3.10.12
+
+# Pygame for game development
+pygame==2.5.0
+
+# OpenCV for computer vision and hand tracking
+opencv-python==4.8.0.74
+
+# Mediapipe for hand pose estimation
+mediapipe==0.10.2
