@@ -23,7 +23,7 @@ HandMotion_Pong is a gesture-controlled Pong game where players can use their ha
 
 ```bash
 git clone https://github.com/denizydmr07/HandMotion_Pong.git
-cd handpong
+cd HandMotion_Pong
 ```
 
 2. Install dependencies using pip:
